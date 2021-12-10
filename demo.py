@@ -10,5 +10,3 @@ class addition():
 
 a = addition(10, 20)
 print(a.add())
-a = addition(50, 20)
-print(a.add())
