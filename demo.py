@@ -17,7 +17,6 @@ class addition:
             self.b.append(x)
         return self.b
 
-
 a = addition(10, 20)
 result = a.list_append()
 print(result[0] + "\n" + result[1])

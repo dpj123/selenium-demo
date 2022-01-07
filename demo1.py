@@ -14,7 +14,7 @@ result = a.add()
 try:
 
     assert result == 50
-except AssertionError:
+except:
     print(AssertionError)
 else:
     print(result)
